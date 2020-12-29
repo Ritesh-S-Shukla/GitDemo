@@ -1,4 +1,7 @@
 hello wordl change for login
 updated the fix bug1
-change ->for bug 1
-changer-> for bug 2 fix
+change ->for bug 1 fix
+change-> for bug 2 fix
+change 2 ->for bug 1
+change 3 ->for bug 2
+
