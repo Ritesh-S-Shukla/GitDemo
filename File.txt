@@ -1,7 +1,8 @@
 hello wordl change for login
 updated the fix bug1
-change ->for bug 1 fix
-change-> for bug 2 fix
-change 2 ->for bug 1
-change 3 ->for bug 2
+change ->For bug 1 fix
+change-> For bug 2 fix
+change 2 ->For bug 1
+change 3 ->For bug 2
+change 4 ->Added caps and change for CR1 by teammate to face rebase
 
