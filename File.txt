@@ -12,4 +12,5 @@ change 2 ->for bug 1
 change 3 ->for bug 2
 change 4 -> for enhancement 
 1c7ea98 (enhancement1:file update for enhancement1)
+save to change on github on remote on pull
 
