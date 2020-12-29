@@ -1,3 +1,6 @@
 welcome to demo
 change 1 to test simple push on remote master
 change 2 to test rebase with remote master and local master
+welcome 3->to demo
+change to test simple push on remote master
+change 4-> check conflict on remote and local
